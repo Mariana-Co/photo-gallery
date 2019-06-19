@@ -1,0 +1,28 @@
+body{
+  display: flex;
+  background-color: #FFF4D1
+}
+h1{
+color: #807A69;
+background-color: #BFB79D;
+border-radius: 10px;
+padding: 20px 30px 20px 30px;
+align-items: center;
+font-family:'Indie Flower',cursive;
+}
+
+img{
+  margin: 30px 20px;
+  height:300px;
+  width:370px;
+  object-fit:cover;
+  border-radius:50px;
+
+}
+
+.img{
+  justify-content: center;
+}
+.p{
+  justify-content: center;
+}
